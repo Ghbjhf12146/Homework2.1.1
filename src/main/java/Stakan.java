@@ -7,8 +7,8 @@ public class Stakan {
         double pol = 50;
         System.out.println("стакан на половину полон "+pol+"%");
 
-        int polovina = 2;
-        double res = stakan / polovina;
+        int polovi = 2;
+        int res = stakan / polovi;
         System.out.println("остаток в стакане"+res+"мл");
     }
 }
